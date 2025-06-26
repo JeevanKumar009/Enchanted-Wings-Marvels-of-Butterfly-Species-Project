@@ -6,6 +6,9 @@ An AI-powered tool to classify butterfly species from images using deep learning
 
 This project leverages a pre-trained Convolutional Neural Network (VGG16) to accurately classify butterfly species. It uses a dataset of **75 butterfly classes** and **6,499 images**, split into training, validation, and test sets. The final model is deployed using a simple yet powerful **Flask web application** where users can upload butterfly images and get species predictions in real-time.
 
+Dataset is available in Kaggle click the link :https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification
+Dowload it before starting the project
+
 ## 📌 Key Features
 
 - ✅ Transfer learning with VGG16 for efficient training
