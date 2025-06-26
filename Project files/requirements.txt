@@ -1,0 +1,8 @@
+tensorflow>=2.8
+flask
+numpy
+pillow
+scipy
+werkzeug
+matplotlib
+jupyter
